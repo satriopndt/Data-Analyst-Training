@@ -56,3 +56,21 @@ pip install pandas numpy matplotlib seaborn
 - Data visualization
 - Customer segmentation
 - RFM Analysis
+
+## 📷 Preview
+
+### Number of Orders per Month (2021)
+
+![Number of Orders](images/order_per_month_2021.jpeg)
+
+### Total Revenue per Month (2021)
+
+![Total Revenue](images/revenue_per_month_2021.jpeg)
+
+### Best & Worst Performing Products
+
+![Best & Worst Products](images/best_worst_product.jpeg)
+
+### RFM Analysis
+
+![RFM Analysis](images/rfm_analysis.jpeg)
